@@ -40,7 +40,7 @@ Top 10 Best OSINT Tools
 
 Link: https://cybersecuritynews.com/osint-tools/
 
-**# Top 10 Vulnerability Assessment and Penetration Testing (VAPT) Tools*8
+**# Top 10 Vulnerability Assessment and Penetration Testing (VAPT) Tools**
 
 10 Best VAPT Tools
 
@@ -490,3 +490,4 @@ Vamos dividi-los para que você possa ver quais opções estão disponíveis em 
 - Imperva
 - Barracuda
 - FortiWeb
+
