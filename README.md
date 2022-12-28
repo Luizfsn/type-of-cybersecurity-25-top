@@ -177,7 +177,7 @@ Top 10 Different Types of Malware
 
 Link: https://cybersecuritynews.com/types-of-malware/
 
-**# Top 10 Dangerous DNS Attacks Types and The Prevention **
+**# Top 10 Dangerous DNS Attacks Types and The Prevention**
 
 Measures Famous DNS Attacks Type:
 
