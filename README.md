@@ -1,4 +1,4 @@
-# type-of-cybersecurity-25-top
+# type of cybersecurity 25 top
 
 **Welcome to the type-of-cybersecurity-25-top!**
 
